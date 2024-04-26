@@ -1,0 +1,4 @@
+tokeinzation is nothing but breaking the words and storing in a list 
+we remove the stop words which doesnot make any sense in the sentiment analysis .
+
+emotions.txt file have the lsit of words having the emotions
